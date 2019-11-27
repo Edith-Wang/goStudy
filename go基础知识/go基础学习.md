@@ -63,7 +63,7 @@
 
 | 标识符 | 示例 | 使用 |
 |----|----|----|
-| append | ![append示例](./testCode/appendTest.go) | 属于内置函数，用于 slice 的元素尾部添加操作 |
-| bool | ![bool示例](./testCode/boolTest.go) | 布尔类型 |
-| byte | ![byte示例](./testCode/byteTest.go) |  |
+| append | [append示例](./testCode/appendTest.go) | 属于内置函数，用于 slice 的元素尾部添加操作 |
+| bool | [bool示例](./testCode/boolTest.go) | 布尔类型 |
+| byte | [byte示例](./testCode/byteTest.go) |  |
 |
